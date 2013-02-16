@@ -9,7 +9,10 @@
 
 ## API
 
-   
+   var splitEvent = require('event-splitter');
+   var event = splitEvent('click .foo > ul');
+   event.name # click
+   event.selector # .foo > ul
 
 ## License
 
