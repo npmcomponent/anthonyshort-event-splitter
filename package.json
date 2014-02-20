@@ -1,0 +1,13 @@
+{
+  "name": "anthonyshort-event-splitter",
+  "description": "Split Backbone-style event strings 'click .foo > ul'",
+  "version": "0.0.1",
+  "keywords": [
+    "events",
+    "backbone",
+    "event split",
+    "splitter"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
